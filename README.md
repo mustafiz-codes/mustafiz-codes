@@ -1,9 +1,7 @@
 <h1 align="left">Hi 👋, I'm Mustafizur Rahman Choudhury</h1>
 <h3 align="left">A passionate software engineer</h3>
 
-- 🔭 I’m currently working on [Dorik](https://dorik.com)
-
-- 🌱 I’m currently learning **GraphQL, MongoDB, Express**
+- 🌱 I’m currently working and learning **GraphQL, MongoDB, Express, Vue**
 
 - 📫 How to reach me **js.mustafiz@gmail.com**
 
